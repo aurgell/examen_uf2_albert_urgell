@@ -1,0 +1,45 @@
+#form-container{
+    width: 90%;
+    margin: 20px auto 0;
+    background-color: azure;
+}
+#studentCards{
+    width: 90%;
+    margin: 0 auto ;
+    background-color: navy;
+
+}
+
+#studentCards h2{
+    color: aquamarine;
+}
+
+.IP10,.ICC0,.IC10,.BATXLOE{
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.IP10{
+    background-image: url('../img/background/IP10.jpg');
+}
+.BATXLOE{
+    background-image: url('../img/background/BATXLOE.jpg');
+}
+
+.ICC0{
+    background-image: url('../img/background/ICC0.jpg');
+}
+.IC10{
+    background-image: url('../img/background/IC10.jpg');
+}
+
+.pupilImg{
+    width: 50%;
+    border-radius: 50%;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(0,0,0,.2);
+}
+.barcode{
+    width: 50%;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(0,0,0,.2);
+}
